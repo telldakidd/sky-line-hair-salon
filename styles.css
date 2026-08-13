@@ -2,30 +2,30 @@
    Derived from najalabee-medspa/styles.css by tools/extract_css.py.
    Do not hand-edit: re-run the extractor, or add rules to _dental.css instead. */
 :root {
-  --bg: #fffaf3;
-  --bg-alt: #f6ece0;
-  --ink: #2c2620;
-  --ink-soft: #5f5346;
-  --brand: #2f5d50;
-  --brand-deep: #204036;
-  --accent: #a84e22;
-  --accent-soft: #eebd99;
-  --surface: #fffdfa;
-  --radius: 20px;
-  --bg-rgb: 255, 250, 243;
-  --bg-alt-rgb: 246, 236, 224;
-  --brand-rgb: 47, 93, 80;
-  --brand-deep-rgb: 32, 64, 54;
-  --accent-rgb: 168, 78, 34;
-  --accent-soft-rgb: 238, 189, 153;
-  --shadow-rgb: 44, 38, 32;
-  --heading: #204036;
-  --on-brand: #fffaf3;
-  --on-brand-deep: #fffaf3;
-  --on-accent: #fffaf3;
-  --shadow: 0 18px 50px rgba(44, 38, 32, 0.10);
-  --font-display: "Lora", Georgia, serif;
-  --font-body: "Source Sans 3", -apple-system, sans-serif;
+  --bg: #fcfdfe;
+  --bg-alt: #e8eff5;
+  --ink: #1b2430;
+  --ink-soft: #4f5f70;
+  --brand: #1d5b82;
+  --brand-deep: #123c58;
+  --accent: #96591f;
+  --accent-soft: #cfe3f0;
+  --surface: #ffffff;
+  --radius: 26px;
+  --bg-rgb: 252, 253, 254;
+  --bg-alt-rgb: 232, 239, 245;
+  --brand-rgb: 29, 91, 130;
+  --brand-deep-rgb: 18, 60, 88;
+  --accent-rgb: 150, 89, 31;
+  --accent-soft-rgb: 207, 227, 240;
+  --shadow-rgb: 27, 36, 48;
+  --heading: #123c58;
+  --on-brand: #fcfdfe;
+  --on-brand-deep: #fcfdfe;
+  --on-accent: #fcfdfe;
+  --shadow: 0 18px 50px rgba(27, 36, 48, 0.10);
+  --font-display: "Jost", "Futura", sans-serif;
+  --font-body: "Karla", -apple-system, sans-serif;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
